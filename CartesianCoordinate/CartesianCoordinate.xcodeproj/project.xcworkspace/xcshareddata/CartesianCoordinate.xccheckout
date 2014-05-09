@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BE567E91-691C-4BFE-BB43-11F88B714813</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CartesianCoordinate</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C3553808-B022-492C-A321-78595AD22491</key>
+		<string>https://github.com/SinuSundaresan/SinuSecondclass.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CartesianCoordinate/CartesianCoordinate.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C3553808-B022-492C-A321-78595AD22491</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/SinuSundaresan/SinuSecondclass.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C3553808-B022-492C-A321-78595AD22491</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C3553808-B022-492C-A321-78595AD22491</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SinuSecondclass</string>
+		</dict>
+	</array>
+</dict>
+</plist>
